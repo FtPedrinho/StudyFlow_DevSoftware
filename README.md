@@ -1,5 +1,5 @@
 # Repositório Central de Materiais Digitais (StudyFlow)
----
+
 ## Visão Geral do Sistema
 Este projeto consiste numa plataforma de **gestão centralizada** para recursos educacionais. A solução integra um sistema de **Smart Assist**, que utiliza modelos de linguagem (*LLM*) para automatizar a descrição técnica dos materiais.
 
